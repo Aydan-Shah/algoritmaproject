@@ -1,0 +1,650 @@
+@media screen and (min-width:995px) and (max-width: 1200px) {
+    .student h1 {
+        font-size: 55px;
+    }
+    .start {
+        width: 38%;
+    }
+    .jh {
+        width: 74%;
+    }
+    .nine-info {
+        width: 60%;
+    }
+    .pro {
+        width: 100% !important;
+    }
+    .funinfo h3 {
+        font-size: 40px;
+    }
+    .course {
+        margin-top: 115px;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width: 995px){
+    .logos-info {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+    .logos {
+        justify-content: center;
+        width: 100%;
+    }
+    .code {
+        width: 100%;
+        justify-content: center;
+        gap: 30px;
+    }
+    .student {
+        width: 100%;
+    }
+    .student h1 {
+        font-size: 40px;
+    }
+    .algoritma {
+        height: 700px;
+    }
+    .content {
+        position: relative;
+        height: 700px;
+    }
+    .anket button {
+        position: absolute;
+        bottom: 0;
+    }
+    .level {
+        width: 100%;
+    }
+    .junior {
+        flex-wrap: wrap;
+    }
+    .lm {
+        margin-top: 35px;
+        /* margin-bottom: 30px; */
+    }
+    .nine {
+        width: 100%;
+        padding-bottom: 25px;
+    }
+    .vacancy  {
+        flex-wrap: wrap;
+    }
+    .percent {
+        height: 980px;
+    }
+    .vo {
+        padding-top: 15px;
+    }
+    .funny {
+        top: 890px;
+        right: 0;
+    }
+    .hard {
+        width: 100%;
+    }
+    .section-study{
+        flex-wrap: wrap;
+    }
+    .hard h3 {
+        margin-bottom: 20px;
+    }
+    .hard p {
+        margin-top: 0;
+    }
+    .study h2 {
+        font-size: 2em;
+        margin-bottom: 30px;
+    }
+    .web-info {
+        flex-wrap: wrap;
+    }
+    .sistem {
+        width: 100%;
+    }
+    .course {
+        margin-top: 45px;
+    }
+    .one img {
+        display: none;
+    }
+    .attend p {
+        width: 100%;
+        font-size: 20px;
+    }
+    .attend h3 {
+        font-size: 2em;
+    }
+    .fun {
+        position: absolute;
+        padding-bottom: 80px;position: absolute;
+        top: -120px;
+        margin: auto;
+        padding: 0;
+        right: 0;
+    }
+    .funinfo {
+        position: relative;
+        z-index: 1;
+    }
+    .fun img {
+        height: 400px;
+        position: absolute;
+        right: 0;
+        z-index: -1;
+    }
+    .for {
+        padding-top: 95px;
+    }
+    .for h3 {
+        font-size: 40px;
+        z-index: 1;
+    }
+    .pal {
+        flex-direction: column;
+    }
+    .pal img {
+        width: 150px;
+    }
+    .adnsu-logo {
+        margin-top: -20px;
+    }
+}
+
+@media screen and (min-width:512px) and (max-width: 768px) {
+    .logos-info {
+        display: flex;
+        flex-direction: row;
+    }
+    .logos {
+        justify-content: flex-start;
+    }
+    .dmenu {
+        display: flex;
+    }
+    .adnsu, .teh, .code{
+        display: none;
+    }
+    .student {
+        width: 100%;
+    }
+    .student h1 {
+        line-height: 1;
+        font-size: 46px;
+    }
+    .algoritma {
+        height: 700px;
+    }
+    .newimg img {
+        width: 100%;
+    }
+    .content {
+        position: relative;
+        height: 700px;
+    }
+    .anket button {
+        position: absolute;
+        bottom: 0;
+    }
+    .level {
+        width: 100%;
+    }
+    .junior {
+        flex-wrap: wrap;
+    }
+    .lm {
+        margin-top: 35px;
+        /* margin-bottom: 30px; */
+    }
+    .nine {
+        width: 100%;
+        padding-bottom: 25px;
+    }
+    .vacancy  {
+        flex-wrap: wrap;
+    }
+    .percent {
+        height: 980px;
+    }
+    .vo {
+        padding-top: 15px;
+    }
+    .funny {
+        top: 890px;
+        right: 0;
+    }
+    .hard {
+        width: 100%;
+    }
+    .section-study{
+        flex-wrap: wrap;
+    }
+    .hard h3 {
+        margin-bottom: 20px;
+    }
+    .hard p {
+        margin-top: 0;
+    }
+    .study h2 {
+        font-size: 2em;
+        margin-bottom: 30px;
+    }
+    .web-info {
+        flex-wrap: wrap;
+    }
+    .sistem {
+        width: 100%;
+    }
+    .course {
+        margin-top: 45px;
+    }
+    .one img {
+        display: none;
+    }
+    .attend p {
+        width: 100%;
+        font-size: 20px;
+    }
+    .attend h3 {
+        font-size: 2em;
+    }
+    .fun {
+        position: absolute;
+        padding-bottom: 80px;position: absolute;
+        top: -120px;
+        margin: auto;
+        padding: 0;
+        right: 0;
+    }
+    .funinfo {
+        position: relative;
+        z-index: 1;
+    }
+    .fun img {
+        height: 400px;
+        position: absolute;
+        right: 0;
+        z-index: -1;
+    }
+    .for {
+        padding-top: 95px;
+    }
+    .for h3 {
+        font-size: 40px;
+        z-index: 1;
+    }
+    .pal {
+        flex-direction: column;
+    }
+    .pal img {
+        width: 150px;
+    }
+    .adnsu-logo {
+        margin-top: -20px;
+    }
+    .start  {
+        width: 44%;
+    }
+    .code {
+        display: none;
+        position: absolute;
+        right: 0;
+        top: 62px;
+        left: 0;
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+        animation: growDown 300ms ease-in-out forwards;
+        transform-origin: top center;
+    }
+    header .container {
+        position: relative;
+    }
+    .code::before {
+        content: "";
+        position: absolute;
+        z-index: 1;
+        top: 0;
+        right: 0;
+        left: 0;
+        bottom: 0;
+        background-color: #382459;
+        width: 100%;
+        height: 70vh;
+       display: none;
+    }
+    .show .code::before {
+        content: "";
+        position: absolute;
+        z-index: 1;
+        top: 0;
+        right: 0;
+        left: 0;
+        bottom: 0;
+        background-color: #382459;
+        width: 100%;
+        height: 70vh;
+        display: block !important;
+    }
+    .c {
+        z-index: 2;
+        display: none;
+        /* line-height: 200px; */
+        padding: 20px;
+        margin: 60px 0;
+        font-size: 30px;
+        background-color: rebeccapurple;
+        transition: 1s;
+        animation: showDiv 1s alternate;
+    }
+    .c:hover {
+        transform: scale(0.8);
+        background-color: white;
+        animation: showDiv 1s alternate;
+        color: black;
+    }
+    @keyframes showDiv {
+        from {opacity: 0.1}
+        to{opacity: 1}
+    }
+    @keyframes growDown {
+        0% {
+          transform: scaleY(0)
+        }
+        80% {
+          transform: scaleY(1.1)
+        }
+        100% {
+          transform: scaleY(1)
+        }
+      }
+}
+
+@media screen and (min-width:320px) and (max-width: 512px) {
+    .code {
+        display: none;
+        position: absolute;
+        right: 0;
+        top: 62px;
+        left: 0;
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+        animation: growDown 300ms ease-in-out forwards;
+        transform-origin: top center;
+    }
+    header .container {
+        position: relative;
+    }
+    .code::before {
+        content: "";
+        position: absolute;
+        z-index: 1;
+        top: 0;
+        right: 0;
+        left: 0;
+        bottom: 0;
+        background-color: #382459;
+        width: 100%;
+        height: 70vh;
+       display: none;
+    }
+    .show .code::before {
+        content: "";
+        position: absolute;
+        z-index: 1;
+        top: 0;
+        right: 0;
+        left: 0;
+        bottom: 0;
+        background-color: #382459;
+        width: 100%;
+        height: 80vh;
+        display: block !important;
+    }
+    .c {
+        z-index: 2;
+        display: none;
+        /* line-height: 200px; */
+        padding: 20px;
+        margin: 60px 0;
+        font-size: 30px;
+        background-color: rebeccapurple;
+        transition: 1s;
+        animation: showDiv 1s alternate;
+    }
+    .c:hover {
+        transform: scale(0.8);
+        background-color: white;
+        animation: showDiv 1s alternate;
+        color: black;
+    }
+    @keyframes showDiv {
+        from {opacity: 0.1}
+        to{opacity: 1}
+    }
+    @keyframes growDown {
+        0% {
+          transform: scaleY(0)
+        }
+        80% {
+          transform: scaleY(1.1)
+        }
+        100% {
+          transform: scaleY(1)
+        }
+      }
+    .algoritma {
+        background-size: 100% 55%;
+        position: relative;
+        height: 100vh;
+    }
+    .algoritma::before {
+        content: "";
+        position: absolute;
+        z-index: 0;
+        top: 0;
+        right: 0;
+        left: 0;
+        bottom: 0;
+        background: linear-gradient(0deg, #382459 56.53%, rgb(56 36 89 / 0%) 66.94%, rgb(56 36 89 / 53%) 110.68%);
+        width: 100%;
+        height: 100vh;
+    }
+    .logos-info {
+        display: flex;
+        flex-direction: row;
+        position: relative;
+    }
+    .logos {
+        justify-content: flex-start;
+    }
+    .dmenu {
+        display: flex;
+    }
+    /* .code{
+        display: none;
+    } */
+    .student {
+        width: 100%;
+        /* position: relative; */
+        /* z-index: -1; */
+    }
+    .student h1 {
+        line-height: 1;
+        font-size: 30px;
+    }
+    .start {
+        width: 73%;
+    }
+   
+    .newimg img {
+        width: 100%;
+    }
+    .content {
+        position: relative;
+        height: 800px;
+    }
+    .anket h2 {
+        font-size: 24px;
+    }
+    .anket button {
+        position: absolute;
+        bottom: 0;
+    }
+    .jh {
+        width: 78%;
+    }
+    .level {
+        width: 100%;
+    }
+    .junior {
+        flex-wrap: wrap;
+    }
+    .lm {
+        margin-top: 35px;
+        /* margin-bottom: 30px; */
+    }
+    .nine {
+        width: 100%;
+        padding-bottom: 25px;
+    }
+    .vacancy  {
+        flex-wrap: wrap;
+    }
+    .percent {
+        height: 1200px;
+    }
+    .vo {
+        padding-top: 15px;
+    }
+    .funny {
+        top: 1115px;
+        right: 10px;
+    }
+    .hard {
+        width: 100%;
+    }
+    .section-study{
+        flex-wrap: wrap;
+    }
+    .hard h3 {
+        margin-bottom: 20px;
+    }
+    .hard p {
+        margin-top: 0;
+    }
+    .study h2 {
+        font-size: 23px;
+        margin-bottom: 30px;
+    }
+    .web-info {
+        flex-wrap: wrap;
+    }
+    .sistem {
+        width: 100%;
+    }
+    .sistem h3 {
+        font-size: 24px;
+    }
+    .ws {
+        display: none;
+    }
+    .course {
+        margin-top: 45px;
+    }
+    .one img {
+        display: none;
+    }
+    .attend p {
+        width: 100%;
+        font-size: 20px;
+    }
+    .attend h3 {
+        font-size: 23px;
+    }
+    .fun {
+        position: absolute;
+        padding-bottom: 80px;position: absolute;
+        top: -85px;
+        margin: auto;
+        padding: 0;
+        right: 0;
+    }
+    .funinfo {
+        position: relative;
+        z-index: 1;
+    }
+    .fun img {
+        height: 300px;
+        position: absolute;
+        right: 0;
+        z-index: -1;
+    }
+    .for {
+        padding-top: 95px;
+    }
+    .for h3 {
+        font-size: 23px;
+        z-index: 1;
+        padding-top: 50px;
+    }
+    .pal {
+        flex-direction: column;
+        width: 100%;
+    }
+    .pal img {
+        width: 150px;
+    }
+    .adnsu-logo {
+        width: 40%;
+        margin-top: 70px;
+        margin-bottom: 50px;
+    }
+    .end {
+        flex-direction: column;
+        align-items: normal;
+    }
+    .feb {
+        position: absolute;
+        top: 200px;
+    }
+    footer .container {
+        position: relative;
+    }
+    .contact {
+        margin-bottom: 20px;
+        margin-top: 25px;
+    }
+    .start  {
+        width: 72%;
+    }
+    .apply {
+        height: 530px;
+    }
+    .tehs {
+        margin-top: 20px
+    }
+    .teh {
+        display: block;
+        position: absolute;
+        bottom: 210px;
+        right: 0;
+        top: 560px;
+    }
+    .adnsu {
+        width: 30%;
+        display: block;
+        position: absolute;
+        top: 600px;
+        left: 0;
+        padding-left: 15px;
+    }
+    .select {
+        display: flex;
+    }
+}
+
+
+
+

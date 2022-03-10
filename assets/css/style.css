@@ -1,0 +1,358 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.algoritma {
+    width: 100%;
+    height: 100vh !important;
+    background: url(../img/Group\ 7838.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logos-info {
+    display: flex;
+    justify-content: space-between;
+}
+.logos img {
+    margin-top: 20px;
+}
+.code {
+    margin-top: 38px;
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+}
+.logos {
+    width: 60%;
+    display: flex;
+    gap: 40px;
+}
+.logos img {
+    object-fit: contain;
+}
+.code span {
+   color: white;
+   font-weight: 500;
+}
+.student {
+    width: 60%;
+    margin-top: 100px;
+}
+.student h1 {
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 70px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #30FFCD;
+    margin-bottom: 40px;
+}
+.student .web {
+    font-weight: 600;
+    font-size: 18px;
+    color: white;
+}
+.start {
+    margin-top: 70px;
+    font-weight: 600;
+    font-size: 18px;
+    color: white;
+    border-bottom: 2px dashed #FFE920;
+    width: 32%;
+}
+.anket {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+.anket h2 {
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #382459;
+    font-weight: bold;
+}
+.anket button {
+    background: #FF1DC0;
+    border-radius: 48px;
+    border: none;
+    outline: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 50px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+.junior {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.level {
+    width: 33%;
+}
+.junior h3 {
+    font-weight: 600;
+    font-size: 25px;
+    margin: 15px 0px;
+    color: #382459;
+}
+.level p {
+    color: #382459;
+    font-size: 16px;
+}
+.percent {
+    background-color:#382459;
+    margin-top: 50px;
+    height: 630px;
+}
+.vacancy {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+.nine {
+    width: 40%;
+}
+.nine h3 {
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #30FFCD;
+    font-size: 40px;
+}
+.nine-info {
+    color: white;
+    font-size: 20px;
+    width: 75%;
+    margin-bottom: 30px;
+}
+.small-info {
+    font-size: 11px;
+    color: white;
+    font-weight: 500;
+    opacity: 0.62;
+}
+.funny {
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+    height: 100px;
+    top: 540px;
+    right: 35px;
+}
+.percent .container {
+    position: relative;
+}
+.study {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.study h2 {
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #382459;
+    font-size: 47px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+.section-study {
+    display: flex;
+    justify-content: space-between;
+}
+.hard {
+    width: 30%;
+}
+.hard h3 {
+    color: #382459;
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 35px;
+}
+.hard p {
+    font-weight: 500;
+    font-size: 16px;
+    color: #382459;
+    margin-top: 30px;
+}
+.web-info {
+    display: flex;
+    justify-content: space-between;
+}
+.sistem-web {
+    background-color: #382459;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+.sistem-web h3 {
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #30FFCD;
+    font-size: 40px;
+    font-weight: 500;
+    margin-bottom: 55px;
+}
+.sistem {
+    width: 45%;
+    height: 500px;
+}
+.sistem p {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 30px;
+}
+.sistem button {
+    border: 2px solid #33DFC0;
+    box-sizing: border-box;
+    border-radius: 48px;
+    background-color: transparent;
+    padding: 10px;
+}
+.sistem button a {
+    color: #30FFCD;
+    padding: 20px;
+    text-decoration: none;
+}
+.course {
+    margin-top: 75px;
+}
+.program {
+    margin-top: 50px;
+}
+.attend {
+    height: 300px;
+    margin-top: 70px;
+}
+.attend h3 {
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #382459;
+    font-size: 47px;
+    font-weight: bold;
+}
+.attend p {
+    color: #382459;
+    font-size: 16px;
+    width: 30%;
+    margin: 30px 0;
+}
+.one{
+    position: relative;
+}
+.one img{
+    position: absolute;
+    right: 0;
+    top: -150px;
+    z-index: 1;
+}
+.apply {
+    height:650px; 
+    width: 100%; 
+    background-color: #382459; 
+    z-index: 1; 
+    /* position: absolute;
+    right: 0;
+    left: 0; */
+}
+.apply img {
+    /* width: 40%; */
+    height: 500px;
+    object-fit: cover;
+}
+.fun {
+    width: 100%;
+    padding: 80px 0;
+}
+.funinfo {
+    display: flex;
+}
+.funinfo h3 {
+    padding: 100px 0 20px 0;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #30FFCD;
+    font-size: 47px;
+}
+.funinfo p {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 23px;
+    color: #FFFFFF;
+    padding-bottom: 20px;
+}
+.for {
+    padding-top: 100px;
+}
+.funinfo button {
+    background: #FF1DC0;
+    border-radius: 48px;
+    border: none;
+    outline: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 50px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+footer {
+    height: 200px;
+}
+.end {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 80px;
+}
+.pal {
+    display: flex;
+    width: 40%;
+    justify-content: space-around;
+}
+.contact p {
+    color: #382459;
+    font-size: 16px;
+    font-weight: bold;
+}
+.contact .co {
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+.adnsu-logo {
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px
+}
+.feb {
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    color: #382459;
+    padding-top: 30px;
+}
+.jh {
+    width: 65%;
+}
+.dmenu {
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+    display: none;
+}
+.select {
+    font-weight: bold;
+    font-size: 25px;
+    text-transform: uppercase;
+    color: #30FFCD;
+    margin-bottom: 30px;
+    display: none;
+}
+.start p {
+    margin-bottom: 0;
+}
